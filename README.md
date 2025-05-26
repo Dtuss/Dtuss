@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ditus and I'm a Jawa, from Republik Klaten</p>
+<p align="left">My name is Ditus and I'm a Jawa, from Jambi City Tercinta</p>
 
 ###
 
